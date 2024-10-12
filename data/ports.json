@@ -1,0 +1,202 @@
+[
+    {
+      "country": "Singapore",
+      "port_name": "Jurong Port",
+      "UNLOCODE": "SGJUR",
+      "coordinates": {
+        "latitude": 1.2529371,
+        "longitude": 103.7000028
+      }
+    },
+    {
+      "country": "Singapore",
+      "port_name": "Singapore Port",
+      "UNLOCODE": "SGSIN",
+      "coordinates": {
+        "latitude": 1.2392074,
+        "longitude": 103.8324606
+      }
+    },
+    {
+      "country": "Malaysia",
+      "port_name": "Muar Port",
+      "UNLOCODE": "MYMUA",
+      "coordinates": {
+        "latitude": 2.0333333,
+        "longitude": 102.55
+      }
+    },
+    {
+      "country": "Malaysia",
+      "port_name": "Port Kelang",
+      "UNLOCODE": "MYPKG",
+      "coordinates": {
+        "latitude": 3.0034284,
+        "longitude": 101.3826494
+      }
+    },
+    {
+      "country": "Malaysia",
+      "port_name": "Dungun (Kuala Dungun) Port",
+      "UNLOCODE": "MYDGN",
+      "coordinates": {
+        "latitude": 4.7833333,
+        "longitude": 103.4333333
+      }
+    },
+    {
+      "country": "Malaysia",
+      "port_name": "Lundu Port",
+      "UNLOCODE": "MYLUN",
+      "coordinates": {
+        "latitude": 1.6666667,
+        "longitude": 109.8666667
+      }
+    },
+    {
+      "country": "Malaysia",
+      "port_name": "Labuan, Sabah Port",
+      "UNLOCODE": "MYLBU",
+      "coordinates": {
+        "latitude": 5.2830762,
+        "longitude": 115.2500029
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Tanah Merah Port",
+      "UNLOCODE": "IDTMH",
+      "coordinates": {
+        "latitude": -1.7974501,
+        "longitude": 116.2765257
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Nunukan Port",
+      "UNLOCODE": "IDNNX",
+      "coordinates": {
+        "latitude": 4.01758,
+        "longitude": 117.7210424
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Tuban Port",
+      "UNLOCODE": "IDTBN",
+      "coordinates": {
+        "latitude": -6.9,
+        "longitude": 112.0666667
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Kasim Marine Terminal Port",
+      "UNLOCODE": "IDKAS",
+      "coordinates": {
+        "latitude": -1.320594,
+        "longitude": 131.0152953
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Senipah Terminal Port",
+      "UNLOCODE": "IDSPH",
+      "coordinates": {
+        "latitude": -2.1674007,
+        "longitude": 116.5217841
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Gorontalo, Sulawesi Port",
+      "UNLOCODE": "IDGTO",
+      "coordinates": {
+        "latitude": 0.5,
+        "longitude": 123.05
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Sabang, Sumatra Port",
+      "UNLOCODE": "IDSBG",
+      "coordinates": {
+        "latitude": 5.8456289,
+        "longitude": 95.3070527
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Semarang, Java Port",
+      "UNLOCODE": "IDSRG",
+      "coordinates": {
+        "latitude": -6.9761017,
+        "longitude": 110.4071045
+      }
+    },
+    {
+      "country": "Indonesia",
+      "port_name": "Selat Pandjang, Sumatra Port",
+      "UNLOCODE": "IDSPA",
+      "coordinates": {
+        "latitude": -5.4664049,
+        "longitude": 105.322159
+      }
+    },
+    {
+      "country": "Thailand",
+      "port_name": "Sattahip Port",
+      "UNLOCODE": "THSAT",
+      "coordinates": {
+        "latitude": 12.6674191,
+        "longitude": 100.8975625
+      }
+    },
+    {
+      "country": "Thailand",
+      "port_name": "Chanthaburi Port",
+      "UNLOCODE": "THCHA",
+      "coordinates": {
+        "latitude": 12.5833333,
+        "longitude": 102.1333333
+      }
+    },
+    {
+      "country": "Thailand",
+      "port_name": "Koh Sichang Port",
+      "UNLOCODE": "THKSI",
+      "coordinates": {
+        "latitude": 13.1666667,
+        "longitude": 100.8
+      }
+    },
+    {
+      "country": "Thailand",
+      "port_name": "Mab Tapud Port",
+      "UNLOCODE": "THMAT",
+      "coordinates": {
+        "latitude": 12.6726963,
+        "longitude": 101.1858921
+      }
+    },
+ 
+    {
+      "country": "Brunei",
+      "port_name": "Muara Harbour Port",
+      "UNLOCODE": "BNMUH",
+      "coordinates": {
+        "latitude": 5.0098908,
+        "longitude": 115.065219
+      }
+    },
+    {
+      "country": "Brunei",
+      "port_name": "Kuala Belait Port",
+      "UNLOCODE": "BNKUB",
+      "coordinates": {
+        "latitude": 4.5888088,
+        "longitude": 114.2270933
+      }
+    }
+  ]
+  

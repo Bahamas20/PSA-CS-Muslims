@@ -1,0 +1,1241 @@
+[
+    {
+        "location1": "SGJUR",
+        "location2": "MYMUA",
+        "co2_emission": 3.8623401871407994,
+        "distance": 154.49360748563197,
+        "cost": 0.6210643020922405
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "MYPKG",
+        "co2_emission": 8.06954668366498,
+        "distance": 322.78186734659914,
+        "cost": 1.2975831067333286
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "MYDGN",
+        "co2_emission": 9.84192499638656,
+        "distance": 393.6769998554623,
+        "cost": 1.5825815394189586
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "MYLUN",
+        "co2_emission": 17.175487758891723,
+        "distance": 687.0195103556689,
+        "cost": 2.761818431629789
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "MYLBU",
+        "co2_emission": 33.950222061537765,
+        "distance": 1358.0088824615107,
+        "cost": 5.459195707495273
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDTMH",
+        "co2_emission": 35.97039989376008,
+        "distance": 1438.8159957504033,
+        "cost": 5.784040302916622
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDNNX",
+        "co2_emission": 39.68280335527788,
+        "distance": 1587.312134211115,
+        "cost": 6.380994779528683
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDTBN",
+        "co2_emission": 32.440359137891754,
+        "distance": 1297.6143655156702,
+        "cost": 5.216409749372994
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDKAS",
+        "co2_emission": 76.26292498479977,
+        "distance": 3050.516999391991,
+        "cost": 12.263078337555804
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDSPH",
+        "co2_emission": 36.88310345442692,
+        "distance": 1475.324138177077,
+        "cost": 5.9308030354718495
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDGTO",
+        "co2_emission": 53.82450784623682,
+        "distance": 2152.9803138494726,
+        "cost": 8.654980861674881
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDSBG",
+        "co2_emission": 26.55120248845015,
+        "distance": 1062.048099538006,
+        "cost": 4.269433360142784
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDSRG",
+        "co2_emission": 29.4866175901874,
+        "distance": 1179.464703607496,
+        "cost": 4.741448108502134
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "IDSPA",
+        "co2_emission": 19.214206346833052,
+        "distance": 768.5682538733221,
+        "cost": 3.0896443805707547
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "THSAT",
+        "co2_emission": 32.65634765569592,
+        "distance": 1306.2539062278368,
+        "cost": 5.251140703035904
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "THCHA",
+        "co2_emission": 31.79140563670525,
+        "distance": 1271.6562254682099,
+        "cost": 5.112058026382204
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "THKSI",
+        "co2_emission": 34.06713763682666,
+        "distance": 1362.6855054730663,
+        "cost": 5.477995732001727
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "THMAT",
+        "co2_emission": 32.49209109542247,
+        "distance": 1299.6836438168987,
+        "cost": 5.224728248143933
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "BNMUH",
+        "co2_emission": 33.224955487224086,
+        "distance": 1328.9982194889635,
+        "cost": 5.342572842345634
+    },
+    {
+        "location1": "SGJUR",
+        "location2": "BNKUB",
+        "co2_emission": 30.6578074612528,
+        "distance": 1226.312298450112,
+        "cost": 4.92977543976945
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "MYMUA",
+        "co2_emission": 4.191965492609854,
+        "distance": 167.67861970439415,
+        "cost": 0.6740680512116645
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "MYPKG",
+        "co2_emission": 8.388287820798821,
+        "distance": 335.53151283195285,
+        "cost": 1.3488366815844506
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "MYDGN",
+        "co2_emission": 9.9143077636434,
+        "distance": 396.57231054573595,
+        "cost": 1.5942206883938586
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "MYLUN",
+        "co2_emission": 16.81094005061833,
+        "distance": 672.4376020247332,
+        "cost": 2.7031991601394276
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "MYLBU",
+        "co2_emission": 33.61640081793753,
+        "distance": 1344.6560327175011,
+        "cost": 5.405517251524355
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDTMH",
+        "co2_emission": 35.6036617094508,
+        "distance": 1424.1464683780318,
+        "cost": 5.725068802879688
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDNNX",
+        "co2_emission": 39.32969655226788,
+        "distance": 1573.1878620907153,
+        "cost": 6.324215205604675
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDTBN",
+        "co2_emission": 32.15155945914605,
+        "distance": 1286.0623783658418,
+        "cost": 5.169970761030684
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDKAS",
+        "co2_emission": 75.8928453686229,
+        "distance": 3035.713814744916,
+        "cost": 12.203569535274562
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDSPH",
+        "co2_emission": 36.51761205231974,
+        "distance": 1460.7044820927897,
+        "cost": 5.872032018013015
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDGTO",
+        "co2_emission": 53.4552508441793,
+        "distance": 2138.210033767172,
+        "cost": 8.595604335744031
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDSBG",
+        "co2_emission": 26.892200455031343,
+        "distance": 1075.6880182012537,
+        "cost": 4.32426583316904
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDSRG",
+        "co2_emission": 29.22629223352348,
+        "distance": 1169.0516893409392,
+        "cost": 4.6995877911505755
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "IDSPA",
+        "co2_emission": 19.094082164482753,
+        "distance": 763.7632865793101,
+        "cost": 3.070328412048827
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "THSAT",
+        "co2_emission": 32.781525743113775,
+        "distance": 1311.261029724551,
+        "cost": 5.2712693394926955
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "THCHA",
+        "co2_emission": 31.88075908401639,
+        "distance": 1275.2303633606555,
+        "cost": 5.126426060709835
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "THKSI",
+        "co2_emission": 34.19144729760847,
+        "distance": 1367.6578919043386,
+        "cost": 5.497984725455441
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "THMAT",
+        "co2_emission": 32.60902607983037,
+        "distance": 1304.3610431932148,
+        "cost": 5.243531393636723
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "BNMUH",
+        "co2_emission": 32.888496909095686,
+        "distance": 1315.5398763638275,
+        "cost": 5.288470302982587
+    },
+    {
+        "location1": "SGSIN",
+        "location2": "BNKUB",
+        "co2_emission": 30.319389715136232,
+        "distance": 1212.7755886054492,
+        "cost": 4.875357866193906
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDTMH",
+        "co2_emission": 39.609178163776676,
+        "distance": 1584.3671265510668,
+        "cost": 6.369155848735288
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDNNX",
+        "co2_emission": 42.472030395236395,
+        "distance": 1698.8812158094556,
+        "cost": 6.829502487554012
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDTBN",
+        "co2_emission": 36.2476127832299,
+        "distance": 1449.9045113291959,
+        "cost": 5.828616135543368
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDKAS",
+        "co2_emission": 79.66446698842863,
+        "distance": 3186.578679537145,
+        "cost": 12.810046291739324
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDSPH",
+        "co2_emission": 40.548917995355794,
+        "distance": 1621.9567198142317,
+        "cost": 6.520266013653212
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDGTO",
+        "co2_emission": 57.130848791312,
+        "distance": 2285.23395165248,
+        "cost": 9.18664048564297
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDSBG",
+        "co2_emission": 22.707734673118317,
+        "distance": 908.3093869247326,
+        "cost": 3.6514037354374254
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDSRG",
+        "co2_emission": 33.20305395682536,
+        "distance": 1328.1221582730143,
+        "cost": 5.339051076257518
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "IDSPA",
+        "co2_emission": 22.22387263006463,
+        "distance": 888.9549052025851,
+        "cost": 3.573598718914392
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "THSAT",
+        "co2_emission": 29.909359822768433,
+        "distance": 1196.3743929107372,
+        "cost": 4.809425059501164
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "THCHA",
+        "co2_emission": 29.35008927498331,
+        "distance": 1174.0035709993324,
+        "cost": 4.719494355417316
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "THKSI",
+        "co2_emission": 31.32141941404295,
+        "distance": 1252.8567765617179,
+        "cost": 5.036484241778106
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "THMAT",
+        "co2_emission": 29.813518190015703,
+        "distance": 1192.540727600628,
+        "cost": 4.794013724954525
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "BNMUH",
+        "co2_emission": 35.69315494630024,
+        "distance": 1427.7261978520096,
+        "cost": 5.739459315365079
+    },
+    {
+        "location1": "MYMUA",
+        "location2": "BNKUB",
+        "co2_emission": 33.173305829317655,
+        "distance": 1326.9322331727062,
+        "cost": 5.33426757735428
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDTMH",
+        "co2_emission": 43.48714211743274,
+        "distance": 1739.4856846973094,
+        "cost": 6.9927324524831835
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDNNX",
+        "co2_emission": 45.41983514512533,
+        "distance": 1816.7934058050132,
+        "cost": 7.303509491336153
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDTBN",
+        "co2_emission": 40.457292739729965,
+        "distance": 1618.2917095891985,
+        "cost": 6.505532672548578
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDKAS",
+        "co2_emission": 83.21894357770861,
+        "distance": 3328.757743108344,
+        "cost": 13.381606127295544
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDSPH",
+        "co2_emission": 44.45736216650275,
+        "distance": 1778.2944866601097,
+        "cost": 7.148743836373641
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDGTO",
+        "co2_emission": 60.60010242487538,
+        "distance": 2424.004096995015,
+        "cost": 9.74449646991996
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDSBG",
+        "co2_emission": 18.59887357103941,
+        "distance": 743.9549428415763,
+        "cost": 2.9906988702231367
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDSRG",
+        "co2_emission": 37.371172869316865,
+        "distance": 1494.8469147726746,
+        "cost": 6.009284597386152
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "IDSPA",
+        "co2_emission": 25.962041945351952,
+        "distance": 1038.481677814078,
+        "cost": 4.1746963448125936
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "THSAT",
+        "co2_emission": 26.89777943351607,
+        "distance": 1075.9111773406428,
+        "cost": 4.325162932909384
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "THCHA",
+        "co2_emission": 26.710860905933004,
+        "distance": 1068.4344362373201,
+        "cost": 4.295106433674027
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "THKSI",
+        "co2_emission": 28.297859773041143,
+        "distance": 1131.9143909216457,
+        "cost": 4.550295851505016
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "THMAT",
+        "co2_emission": 26.884785589658918,
+        "distance": 1075.3914235863567,
+        "cost": 4.323073522817154
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "BNMUH",
+        "co2_emission": 38.348238485484245,
+        "distance": 1533.9295394193698,
+        "cost": 6.166396748465867
+    },
+    {
+        "location1": "MYPKG",
+        "location2": "BNKUB",
+        "co2_emission": 35.89766374661427,
+        "distance": 1435.9065498645707,
+        "cost": 5.772344330455574
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDTMH",
+        "co2_emission": 40.08805470173661,
+        "distance": 1603.5221880694642,
+        "cost": 6.446159196039246
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDNNX",
+        "co2_emission": 39.657200621777456,
+        "distance": 1586.288024871098,
+        "cost": 6.376877859981814
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDTBN",
+        "co2_emission": 40.3561118943943,
+        "distance": 1614.244475775772,
+        "cost": 6.489262792618603
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDKAS",
+        "co2_emission": 78.45896347132621,
+        "distance": 3138.3585388530482,
+        "cost": 12.616201326189254
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDSPH",
+        "co2_emission": 41.168415421912606,
+        "distance": 1646.736616876504,
+        "cost": 6.6198811998435465
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDGTO",
+        "co2_emission": 55.74700721291447,
+        "distance": 2229.8802885165787,
+        "cost": 8.964118759836646
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDSBG",
+        "co2_emission": 22.685454938733557,
+        "distance": 907.4181975493422,
+        "cost": 3.6478211541483554
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDSRG",
+        "co2_emission": 37.98663487995234,
+        "distance": 1519.4653951980936,
+        "cost": 6.108250888696336
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "IDSPA",
+        "co2_emission": 28.971446647153698,
+        "distance": 1158.857865886148,
+        "cost": 4.6586086208623145
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "THSAT",
+        "co2_emission": 22.995840734261613,
+        "distance": 919.8336293704645,
+        "cost": 3.697731190069267
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "THCHA",
+        "co2_emission": 21.974848710040526,
+        "distance": 878.993948401621,
+        "cost": 3.5335556725745163
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "THKSI",
+        "co2_emission": 24.39850668738396,
+        "distance": 975.9402674953584,
+        "cost": 3.9232798753313407
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "THMAT",
+        "co2_emission": 22.782814900376565,
+        "distance": 911.3125960150626,
+        "cost": 3.6634766359805515
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "BNMUH",
+        "co2_emission": 32.22288387172983,
+        "distance": 1288.9153548691932,
+        "cost": 5.1814397265741565
+    },
+    {
+        "location1": "MYDGN",
+        "location2": "BNKUB",
+        "co2_emission": 29.90956229336974,
+        "distance": 1196.3824917347895,
+        "cost": 4.809457616773854
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDTMH",
+        "co2_emission": 20.25187205789049,
+        "distance": 810.0748823156196,
+        "cost": 3.256501026908791
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDNNX",
+        "co2_emission": 22.76398743451692,
+        "distance": 910.5594973806767,
+        "cost": 3.6604491794703207
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDTBN",
+        "co2_emission": 24.583987397371263,
+        "distance": 983.3594958948505,
+        "cost": 3.953105173497299
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDKAS",
+        "co2_emission": 59.367218730227606,
+        "distance": 2374.688749209104,
+        "cost": 9.546248771820599
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDSPH",
+        "co2_emission": 21.34777544761984,
+        "distance": 853.9110179047934,
+        "cost": 3.4327222919772695
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDGTO",
+        "co2_emission": 36.78403250456011,
+        "distance": 1471.3613001824042,
+        "cost": 5.914872426733265
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDSBG",
+        "co2_emission": 42.01532929596913,
+        "distance": 1680.613171838765,
+        "cost": 6.756064950791836
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDSRG",
+        "co2_emission": 24.07253565461191,
+        "distance": 962.9014261844765,
+        "cost": 3.8708637332615954
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "IDSPA",
+        "co2_emission": 23.503298446255677,
+        "distance": 940.131937850227,
+        "cost": 3.779330390157913
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "THSAT",
+        "co2_emission": 39.308582652451406,
+        "distance": 1572.3433060980562,
+        "cost": 6.320820090514187
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "THCHA",
+        "co2_emission": 37.074580910276886,
+        "distance": 1482.9832364110755,
+        "cost": 5.961592610372524
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "THKSI",
+        "co2_emission": 40.551513828774716,
+        "distance": 1622.0605531509887,
+        "cost": 6.520683423666974
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "THMAT",
+        "co2_emission": 38.82611035876431,
+        "distance": 1553.0444143505724,
+        "cost": 6.243238545689302
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "BNMUH",
+        "co2_emission": 17.159423651774226,
+        "distance": 686.376946070969,
+        "cost": 2.7592353232052953
+    },
+    {
+        "location1": "MYLUN",
+        "location2": "BNKUB",
+        "co2_emission": 14.57551351849028,
+        "distance": 583.0205407396112,
+        "cost": 2.343742573773237
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDTMH",
+        "co2_emission": 19.888294235345196,
+        "distance": 795.5317694138078,
+        "cost": 3.198037713043507
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDNNX",
+        "co2_emission": 7.697349715883391,
+        "distance": 307.89398863533563,
+        "cost": 1.2377338343140494
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDTBN",
+        "co2_emission": 34.9999974369244,
+        "distance": 1399.999897476976,
+        "cost": 5.627999587857444
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDKAS",
+        "co2_emission": 47.46813448290254,
+        "distance": 1898.7253793161017,
+        "cost": 7.632876024850729
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDSPH",
+        "co2_emission": 21.01031648653303,
+        "distance": 840.412659461321,
+        "cost": 3.378458891034511
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDGTO",
+        "co2_emission": 25.40615251565764,
+        "distance": 1016.2461006263056,
+        "cost": 4.085309324517749
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDSBG",
+        "co2_emission": 55.19691808876327,
+        "distance": 2207.8767235505306,
+        "cost": 8.875664428673133
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDSRG",
+        "co2_emission": 36.6317665034611,
+        "distance": 1465.2706601384439,
+        "cost": 5.890388053756545
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "IDSPA",
+        "co2_emission": 40.649289141594636,
+        "distance": 1625.9715656637854,
+        "cost": 6.536405693968418
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "THSAT",
+        "co2_emission": 44.40688167414397,
+        "distance": 1776.2752669657586,
+        "cost": 7.14062657320235
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "THCHA",
+        "co2_emission": 41.319255996532576,
+        "distance": 1652.770239861303,
+        "cost": 6.6441363642424385
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "THKSI",
+        "co2_emission": 45.27121622586643,
+        "distance": 1810.8486490346572,
+        "cost": 7.279611569119322
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "THMAT",
+        "co2_emission": 43.713633089281934,
+        "distance": 1748.5453235712773,
+        "cost": 7.029152200756535
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "BNMUH",
+        "co2_emission": 0.9156740920837061,
+        "distance": 36.626963683348244,
+        "cost": 0.14724039400705993
+    },
+    {
+        "location1": "MYLBU",
+        "location2": "BNKUB",
+        "co2_emission": 3.427924900659295,
+        "distance": 137.1169960263718,
+        "cost": 0.5512103240260147
+    },
+    {
+        "location1": "IDTMH",
+        "location2": "THSAT",
+        "co2_emission": 58.46520659412548,
+        "distance": 2338.6082637650193,
+        "cost": 9.401205220335378
+    },
+    {
+        "location1": "IDTMH",
+        "location2": "THCHA",
+        "co2_emission": 55.87406149106863,
+        "distance": 2234.962459642745,
+        "cost": 8.984549087763837
+    },
+    {
+        "location1": "IDTMH",
+        "location2": "THKSI",
+        "co2_emission": 59.60164495864207,
+        "distance": 2384.0657983456827,
+        "cost": 9.583944509349644
+    },
+    {
+        "location1": "IDTMH",
+        "location2": "THMAT",
+        "co2_emission": 57.90019417165162,
+        "distance": 2316.0077668660647,
+        "cost": 9.31035122280158
+    },
+    {
+        "location1": "IDTMH",
+        "location2": "BNMUH",
+        "co2_emission": 19.22021918862028,
+        "distance": 768.8087675448112,
+        "cost": 3.090611245530141
+    },
+    {
+        "location1": "IDTMH",
+        "location2": "BNKUB",
+        "co2_emission": 18.64332032314314,
+        "distance": 745.7328129257255,
+        "cost": 2.9978459079614166
+    },
+    {
+        "location1": "IDNNX",
+        "location2": "THSAT",
+        "co2_emission": 52.10223142356274,
+        "distance": 2084.0892569425096,
+        "cost": 8.378038812908889
+    },
+    {
+        "location1": "IDNNX",
+        "location2": "THCHA",
+        "co2_emission": 49.006400151905964,
+        "distance": 1960.2560060762385,
+        "cost": 7.880229144426479
+    },
+    {
+        "location1": "IDNNX",
+        "location2": "THKSI",
+        "co2_emission": 52.96034025566476,
+        "distance": 2118.41361022659,
+        "cost": 8.516022713110893
+    },
+    {
+        "location1": "IDNNX",
+        "location2": "THMAT",
+        "co2_emission": 51.40741153099408,
+        "distance": 2056.296461239763,
+        "cost": 8.266311774183848
+    },
+    {
+        "location1": "IDNNX",
+        "location2": "BNMUH",
+        "co2_emission": 7.859821841384511,
+        "distance": 314.3928736553804,
+        "cost": 1.2638593520946293
+    },
+    {
+        "location1": "IDNNX",
+        "location2": "BNKUB",
+        "co2_emission": 9.814616963998077,
+        "distance": 392.584678559923,
+        "cost": 1.5781904078108906
+    },
+    {
+        "location1": "IDTBN",
+        "location2": "THSAT",
+        "co2_emission": 62.537520093910864,
+        "distance": 2501.5008037564344,
+        "cost": 10.056033231100866
+    },
+    {
+        "location1": "IDTBN",
+        "location2": "THCHA",
+        "co2_emission": 60.71782703334834,
+        "distance": 2428.7130813339336,
+        "cost": 9.763426586962414
+    },
+    {
+        "location1": "IDTBN",
+        "location2": "THKSI",
+        "co2_emission": 63.87175367987076,
+        "distance": 2554.87014719483,
+        "cost": 10.270577991723219
+    },
+    {
+        "location1": "IDTBN",
+        "location2": "THMAT",
+        "co2_emission": 62.16112262748898,
+        "distance": 2486.444905099559,
+        "cost": 9.995508518500227
+    },
+    {
+        "location1": "IDTBN",
+        "location2": "BNMUH",
+        "co2_emission": 34.13724435019265,
+        "distance": 1365.489774007706,
+        "cost": 5.489268891510979
+    },
+    {
+        "location1": "IDTBN",
+        "location2": "BNKUB",
+        "co2_emission": 32.49511328152008,
+        "distance": 1299.804531260803,
+        "cost": 5.225214215668428
+    },
+    {
+        "location1": "IDKAS",
+        "location2": "THSAT",
+        "co2_emission": 91.73786934887079,
+        "distance": 3669.5147739548315,
+        "cost": 14.751449391298424
+    },
+    {
+        "location1": "IDKAS",
+        "location2": "THCHA",
+        "co2_emission": 88.56791926482443,
+        "distance": 3542.716770592977,
+        "cost": 14.241721417783767
+    },
+    {
+        "location1": "IDKAS",
+        "location2": "THKSI",
+        "co2_emission": 92.52825934941433,
+        "distance": 3701.130373976573,
+        "cost": 14.878544103385824
+    },
+    {
+        "location1": "IDKAS",
+        "location2": "THMAT",
+        "co2_emission": 91.02399604032658,
+        "distance": 3640.959841613063,
+        "cost": 14.636658563284513
+    },
+    {
+        "location1": "IDKAS",
+        "location2": "BNMUH",
+        "co2_emission": 47.66124105061507,
+        "distance": 1906.4496420246026,
+        "cost": 7.663927560938903
+    },
+    {
+        "location1": "IDKAS",
+        "location2": "BNKUB",
+        "co2_emission": 49.43824976253168,
+        "distance": 1977.529990501267,
+        "cost": 7.949670561815094
+    },
+    {
+        "location1": "IDSPH",
+        "location2": "THSAT",
+        "co2_emission": 59.669674941398846,
+        "distance": 2386.7869976559537,
+        "cost": 9.594883730576933
+    },
+    {
+        "location1": "IDSPH",
+        "location2": "THCHA",
+        "co2_emission": 57.087789040499516,
+        "distance": 2283.5115616199805,
+        "cost": 9.179716477712322
+    },
+    {
+        "location1": "IDSPH",
+        "location2": "THKSI",
+        "co2_emission": 60.8098216364991,
+        "distance": 2432.392865459964,
+        "cost": 9.778219319149056
+    },
+    {
+        "location1": "IDSPH",
+        "location2": "THMAT",
+        "co2_emission": 59.10712601106609,
+        "distance": 2364.2850404426435,
+        "cost": 9.504425862579428
+    },
+    {
+        "location1": "IDSPH",
+        "location2": "BNMUH",
+        "co2_emission": 20.35789992599281,
+        "distance": 814.3159970397123,
+        "cost": 3.2735503080996438
+    },
+    {
+        "location1": "IDSPH",
+        "location2": "BNKUB",
+        "co2_emission": 19.83347712584238,
+        "distance": 793.3390850336951,
+        "cost": 3.1892231218354548
+    },
+    {
+        "location1": "IDGTO",
+        "location2": "THSAT",
+        "co2_emission": 69.79340169291883,
+        "distance": 2791.7360677167535,
+        "cost": 11.222778992221349
+    },
+    {
+        "location1": "IDGTO",
+        "location2": "THCHA",
+        "co2_emission": 66.72294060699305,
+        "distance": 2668.9176242797216,
+        "cost": 10.729048849604482
+    },
+    {
+        "location1": "IDGTO",
+        "location2": "THKSI",
+        "co2_emission": 70.6727406504305,
+        "distance": 2826.90962601722,
+        "cost": 11.364176696589224
+    },
+    {
+        "location1": "IDGTO",
+        "location2": "THMAT",
+        "co2_emission": 69.10634659992319,
+        "distance": 2764.253863996927,
+        "cost": 11.112300533267646
+    },
+    {
+        "location1": "IDGTO",
+        "location2": "BNMUH",
+        "co2_emission": 25.46509948376721,
+        "distance": 1018.6039793506884,
+        "cost": 4.094787996989767
+    },
+    {
+        "location1": "IDGTO",
+        "location2": "BNKUB",
+        "co2_emission": 27.005597237622812,
+        "distance": 1080.2238895049124,
+        "cost": 4.342500035809748
+    },
+    {
+        "location1": "IDSBG",
+        "location2": "THSAT",
+        "co2_emission": 24.38417444290309,
+        "distance": 975.3669777161236,
+        "cost": 3.920975250418817
+    },
+    {
+        "location1": "IDSBG",
+        "location2": "THCHA",
+        "co2_emission": 26.48068756258081,
+        "distance": 1059.2275025032322,
+        "cost": 4.258094560062994
+    },
+    {
+        "location1": "IDSBG",
+        "location2": "THKSI",
+        "co2_emission": 25.311071544219047,
+        "distance": 1012.4428617687619,
+        "cost": 4.070020304310423
+    },
+    {
+        "location1": "IDSBG",
+        "location2": "THMAT",
+        "co2_emission": 24.89982309195965,
+        "distance": 995.992923678386,
+        "cost": 4.0038915531871115
+    },
+    {
+        "location1": "IDSBG",
+        "location2": "BNMUH",
+        "co2_emission": 54.725310112052775,
+        "distance": 2189.012404482111,
+        "cost": 8.799829866018086
+    },
+    {
+        "location1": "IDSBG",
+        "location2": "BNKUB",
+        "co2_emission": 52.490752472149055,
+        "distance": 2099.630098885962,
+        "cost": 8.440512997521568
+    },
+    {
+        "location1": "IDSRG",
+        "location2": "THSAT",
+        "co2_emission": 60.5976344524139,
+        "distance": 2423.905378096556,
+        "cost": 9.744099619948155
+    },
+    {
+        "location1": "IDSRG",
+        "location2": "THCHA",
+        "co2_emission": 58.98267050462082,
+        "distance": 2359.3068201848328,
+        "cost": 9.484413417143028
+    },
+    {
+        "location1": "IDSRG",
+        "location2": "THKSI",
+        "co2_emission": 61.96057318475423,
+        "distance": 2478.422927390169,
+        "cost": 9.96326016810848
+    },
+    {
+        "location1": "IDSRG",
+        "location2": "THMAT",
+        "co2_emission": 60.26981011339362,
+        "distance": 2410.7924045357445,
+        "cost": 9.691385466233694
+    },
+    {
+        "location1": "IDSRG",
+        "location2": "BNMUH",
+        "co2_emission": 35.73801443921527,
+        "distance": 1429.5205775686106,
+        "cost": 5.746672721825815
+    },
+    {
+        "location1": "IDSRG",
+        "location2": "BNKUB",
+        "co2_emission": 33.85099289540519,
+        "distance": 1354.0397158162075,
+        "cost": 5.443239657581154
+    },
+    {
+        "location1": "IDSPA",
+        "location2": "THSAT",
+        "co2_emission": 51.87055388107351,
+        "distance": 2074.8221552429404,
+        "cost": 8.340785064076622
+    },
+    {
+        "location1": "IDSPA",
+        "location2": "THCHA",
+        "co2_emission": 50.94359947336927,
+        "distance": 2037.7439789347707,
+        "cost": 8.191730795317778
+    },
+    {
+        "location1": "IDSPA",
+        "location2": "THKSI",
+        "co2_emission": 53.28131581992056,
+        "distance": 2131.252632796822,
+        "cost": 8.567635583843225
+    },
+    {
+        "location1": "IDSPA",
+        "location2": "THMAT",
+        "co2_emission": 51.70293603098335,
+        "distance": 2068.117441239334,
+        "cost": 8.313832113782123
+    },
+    {
+        "location1": "IDSPA",
+        "location2": "BNMUH",
+        "co2_emission": 39.74477170521003,
+        "distance": 1589.790868208401,
+        "cost": 6.390959290197772
+    },
+    {
+        "location1": "IDSPA",
+        "location2": "BNKUB",
+        "co2_emission": 37.31629319230293,
+        "distance": 1492.6517276921172,
+        "cost": 6.000459945322311
+    },
+    {
+        "location1": "THSAT",
+        "location2": "BNMUH",
+        "co2_emission": 44.32867338567387,
+        "distance": 1773.1469354269548,
+        "cost": 7.128050680416359
+    },
+    {
+        "location1": "THSAT",
+        "location2": "BNKUB",
+        "co2_emission": 42.94123579854923,
+        "distance": 1717.649431941969,
+        "cost": 6.904950716406716
+    },
+    {
+        "location1": "THCHA",
+        "location2": "BNMUH",
+        "co2_emission": 41.27041003132286,
+        "distance": 1650.8164012529144,
+        "cost": 6.636281933036716
+    },
+    {
+        "location1": "THCHA",
+        "location2": "BNKUB",
+        "co2_emission": 39.96172114560203,
+        "distance": 1598.468845824081,
+        "cost": 6.425844760212806
+    },
+    {
+        "location1": "THKSI",
+        "location2": "BNMUH",
+        "co2_emission": 45.21590467143328,
+        "distance": 1808.636186857331,
+        "cost": 7.270717471166471
+    },
+    {
+        "location1": "THKSI",
+        "location2": "BNKUB",
+        "co2_emission": 43.88327641076693,
+        "distance": 1755.331056430677,
+        "cost": 7.056430846851322
+    },
+    {
+        "location1": "THMAT",
+        "location2": "BNMUH",
+        "co2_emission": 43.64318158797902,
+        "distance": 1745.7272635191607,
+        "cost": 7.017823599347026
+    },
+    {
+        "location1": "THMAT",
+        "location2": "BNKUB",
+        "co2_emission": 42.276073687867864,
+        "distance": 1691.0429475147143,
+        "cost": 6.797992649009152
+    }
+]
